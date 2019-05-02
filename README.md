@@ -23,7 +23,7 @@ managers.
 * Next, the implmentation for the functions of the program were implmented using Hamming Dist class from project1 in
 which already had the following methods and fields to support the operations required by the program.
 
-*The action listeners for the components in the the GraphicalHammingDist required that the HammindDist class to gather
+* The action listeners for the components in the the GraphicalHammingDist required that the HammindDist class to gather
 all the station given in mesonet.txt which were used to setup the JComboBox (as a drop down menu) with all the stations
  in the file. Then, calcHammingDist was used to get all the distances from the mesoner.txt given the selected station 
  in the menu. Which was also used to print all the station with a certain given distance from station.
